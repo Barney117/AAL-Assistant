@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AAL-assistant Demo </string>
+    <string name="test_email">fyp2019@ucd.com</string>
+    <string name="test_password">robert</string>
+    <string name="no_ble">BLE not supported on this device</string>
+    <string name="enable">Bluetooth Automatically enabled</string>
+    <string name="firebase_path">location</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="location">GPS Location</string>
+    <string name="address">Address</string>
+    <string name="xAxis">X: %.2f g</string>
+    <string name="yAxis">Y: %.2f g</string>
+    <string name="zAxis">Z: %.2f g</string>
+    <string name="Lat">lat: %.7f</string>
+    <string name="Lon">lon: %.7f</string>
+    <string name="TVaddress">Address: </string>
+    
+    <string name="none">-</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="Z">Z</string>
+    <string name="tracking_notification">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="about_title">About</string>
+    <string name="about_message">Barneys  appy.</string>
+    <string name="github">GitHub</string>
+    <string name="close">Close</string>
+    <string name="github_url">https://github.com/Barney117</string>
+
+</resources>

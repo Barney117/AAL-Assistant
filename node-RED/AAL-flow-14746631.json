@@ -1,0 +1,1 @@
+[{"id":"65808239.df871c","type":"function","z":"4fc71a5b.cb5c54","name":"alert","func":"var acc = global.get(\"accMax\");\nif (Math.abs(msg.zscore)>0.93) {\n    msg.payload=\"ALERT ALERT ALERT!!!!!\" + acc;\n    return msg;\n}\n","outputs":1,"noerr":0,"x":350,"y":40,"wires":[["bd014646.1879f8"]]}]
